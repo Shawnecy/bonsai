@@ -19,3 +19,4 @@ build/*
 breakpoints
 
 .vscode/*
+.idea/
